@@ -17,7 +17,12 @@ public class Proyecto {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("¡¡Hola!!");
-        int a, b;
+        int a, b, res;
+        a = 5+3;
+        b = 3-1;
+        res = a*b;
+        System.out.println("El Resultado es: " +res);
+        
     }
     
 }
